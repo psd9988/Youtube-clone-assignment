@@ -1,0 +1,40 @@
+.left {
+  display: flex;
+}
+
+.center {
+  display: flex;
+
+}
+
+.search-button {
+  height: 21px;
+  border: none;
+}
+
+.search-button:hover {
+  cursor: pointer;
+}
+
+.right {
+  display: flex;
+
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons {
+  margin-left: 10px;
+}
+
+.profile-photo {
+  width: 20px;
+
+}
+
+.left .logo i {
+  color: red;
+}
